@@ -1,0 +1,3321 @@
+org_id,description
+1,"Main Org.
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Dynatrace
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    SAP HANA®
+        ↳ Used in the following dashboards:
+            ↳ 1. IDoc overview
+            ↳ 2. SM58 tRFC Errors
+            ↳ 3. SM37 jobs
+            ↳ 4. ST22 Short Dumps
+            ↳ 5. SM13 updates
+        ↳ Used in the following alerts:
+            ↳ Grafhana failed IDOCs 
+            ↳ Grafhana high short dumps frequency
+
+
+Reports configured in the org
+    yaGrtest
+     ↳ paused
+    test
+     ↳ expired
+    my test report
+     ↳ not scheduled
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 1808 active users"
+2,"StableNet
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 100 active users"
+5,"4PLUS1GoldenSignal
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Azure Devops
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 175 active users"
+6,"Intraday
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 24 active users"
+7,"PSF
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Azure Devops
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    Oracle Database
+        ↳ Used in the following dashboards:
+            ↳ Abrechnung - Anzahl Aufgaben
+            ↳ DMSDP-10163
+            ↳ DMSDP-2753
+            ↳ DMSDP-6696
+            ↳ DMSDP-6762
+            ↳ DMSDP-6987
+            ↳ eks-dmsek-email-mismatch
+            ↳ eks-dmsek-email-mismatch Copy
+            ↳ eks-dmsek-email-mismatch-old
+            ↳ eks-dmsek-email-mismatch_linked
+            ↳ Empfängerland - Anzahl Aufgaben Datenbearbeitung
+            ↳ eks-dmsek-email-mismatch_one
+            ↳ Empfängerland - Anzahl der Aufgaben zur Vertragsunterzeichnung
+            ↳ Empfängerland - Anzahl Aufgaben_new
+            ↳ Erstellerland - Anzahl Aufgaben
+            ↳ Gegengezeichnete Dokumente (heute)
+            ↳ Erstellerland - Anzahl Aufgaben_new
+            ↳ Inaktive Freigeber
+            ↳ Lieferant - Nicht unterschrieben seit min. 14 Tagen
+            ↳ mismatch_email Copy
+            ↳ SSC - Anzahl Aufgaben
+            ↳ Versendete Kontrakte
+            ↳ SSC - Anzahl Aufgaben_new
+        ↳ Used in the following alerts:
+            ↳ Mismatch Count Alert (DO NOT DELETE)
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 51 active users"
+8,"PSF-Countries
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Oracle Database
+        ↳ Used in the following dashboards:
+            ↳ Abrechnung - Anzahl Aufgaben
+            ↳ Akzeptierte Dokumente
+            ↳ DMSDP-6987
+            ↳ Empfängerland - Anzahl Aufgaben
+            ↳ Empfängerland - Anzahl Aufgaben Datenbearbeitung
+            ↳ Empfängerland - Anzahl der Aufgaben zur Vertragsunterzeichnung
+            ↳ Erstellerland - Anzahl Aufgaben
+            ↳ Inaktive Freigeber
+            ↳ Gegengezeichnete Dokumente
+            ↳ Lieferant - Nicht unterschrieben seit min. 14 Tagen
+            ↳ Report - Versendete Verträge
+            ↳ SSC - Anzahl Aufgaben-Verträge
+            ↳ SSC - Anzahl Aufgaben
+            ↳ SSC - Versendete Verträge
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 115 active users"
+139,"BCP PEP Plano
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+10,"Checkly
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 30 active users"
+60,"EnMS Energy Management GLT Lidl
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 27 active users"
+13,"s-int-it-eng-doc-eco
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Dynatrace
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    MongoDB
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 49 active users"
+14,"Kaufland App
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 52 active users"
+4,"KMT PWH
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Azure Devops
+        ↳ Used in the following dashboards:
+            ↳ AzureDevops Monitoring
+        ↳ Not used in any alert!
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+Reports configured in the org
+    CTX-P-EKDB
+     ↳ paused
+    Status of KMT Prod-Hosts
+     ↳ scheduled
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 367 active users"
+15,"SIT-Warehouse-Operations
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 25 active users"
+16,"ESLL SoluM
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 63 active users"
+17,"DWH Platforms
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Oracle Database
+        ↳ Used in the following dashboards:
+            ↳ Template - Multi EM - TESTCOPY Copy
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 22 active users"
+18,"Storeserver
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 25 active users"
+19,"Cloud Platform Services
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Azure Devops
+        ↳ Used in the following dashboards:
+            ↳ New dashboard
+            ↳ Repos (PluginTest)
+        ↳ Not used in any alert!
+    MongoDB
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+Reports configured in the org
+    CDWH Pool Agent Pool Usage
+     ↳ draft
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 31 active users"
+136,"AI FKL
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 42 active users"
+21,"AutoDispo
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    MongoDB
+        ↳ Used in the following dashboards:
+            ↳ ABDS API
+            ↳ ADBS - Real Time Process Executions
+            ↳ AD FUSION Data
+            ↳ ADBS US Dashboard
+            ↳ ADL for Relex Test Version_Adelina
+            ↳ ADL Functional Dashboard Details Relex
+            ↳ ADL Functional Dashboard Details AD-INT
+            ↳ Bestellbereich DE
+            ↳ Blob Export
+            ↳ CBO item level functional dashboard
+            ↳ Copy - Copy - Functional Dashboard All Countries
+            ↳ Counting List Report
+            ↳ Counting List Report Copy for custom executions
+            ↳ Critical Processes Relex
+            ↳ Country Overview
+            ↳ Demand Forecast - All Processes with Groups
+            ↳ Demand Forecast Datenübertragung
+            ↳ Demand Forecast Datenübertragung Copy
+            ↳ Demand Forecast MT 14.01.
+            ↳ Demand Forecast Splunk
+            ↳ ESB Dashboard Country Level - Mail
+            ↳ Failed Processes WH Level
+            ↳ External Systems - Health Status (Databases)
+            ↳ Forecast & Promotion
+            ↳ File Export
+            ↳ Functional Dashboard
+            ↳ Functional Dashboard - Furkan Test
+            ↳ Functional Dashboard All Countries Copy
+            ↳ Functional Dashboard All Countries Copy (Joshua)
+            ↳ Functional Dashboard All Countries Copy WaWi API WIP
+            ↳ Functional Dashboard All Countries Copy_Hanna
+            ↳ Functional Dashboard US
+            ↳ Fusion Control Overview
+            ↳ FWWS Next: 📝 Corrections
+            ↳ FWWS Next: 📦 Test Claims
+            ↳ FWWS Next: 🗑️ Write-Offs
+            ↳ Healthcheck Dashboard All Countries
+            ↳ IT Blob Export - Test
+            ↳ Kasasi Tours
+            ↳ Kassasi Tours 2
+            ↳ kronos
+            ↳ Missing orders detail
+            ↳ Morning Failed Processes
+            ↳ Monitoring Guidebook
+            ↳ New dashboard-Mikolaj
+            ↳ Nullzählung
+            ↳ Overview Cleanup - ExternalEvenHubCollection
+            ↳ Overview of MFT Data Upload Calendar
+            ↳ Process Dashboard All Countries (RELEX)
+            ↳ Process Dashboard All Countries (ADINT)
+            ↳ Project Reporting
+            ↳ Promotiondata (ADINT/RELEX)
+            ↳ Relex - Night Run
+            ↳ RELEX Dashboard
+            ↳ RELEX Dashboard NEW (TEST)
+            ↳ Relex: Early checks
+            ↳ Relex: Early checks Copy_Sud
+            ↳ Relex: NightRun & WeeklyRun Logs
+            ↳ Relex: Store Opening/Closing Info US
+            ↳ Relex: Store Opening/Closing_Sud
+            ↳ Relex: Store Opening/MIchael
+            ↳ Relex: Store Opening/Closing Info
+            ↳ Relex: Sunday & Holiday Check - Store Opening/Closing
+            ↳ Relex: Weekend US Check_Sud
+            ↳ Relex: Weekend US Check
+            ↳ Relex: WeeklyRun Logs for DE
+            ↳ RTDS and Wawi comparison
+            ↳ RTDS DE FA
+            ↳ RTDS and Wawi comparison Copy
+            ↳ RTDS EAN NF Stock Dashboard
+            ↳ RTDS EAN NF Stock Dashboard Multiple Stores
+            ↳ RTDS IAN Stock Dashboard - Country Level (Angular-less)
+            ↳ RTDS IAN Stock Dashboard - Country Level Copy_spitzerf_Troubleshooting
+            ↳ RTDS IAN Stock Dashboard - 📈 Country Level
+            ↳ RTDS Live Data based on article Copy
+            ↳ RTDS Live Data based on article
+            ↳ RTDS Live Data 📈
+            ↳ RTDS Overview 🔭
+            ↳ RTDS Report Turnover (version with repeatable panels) 💸
+            ↳ RTDS Report Turnover Copy V1
+            ↳ RTDS Report Turnover WH
+            ↳ RTDS Report Turnover Copy V2
+            ↳ RTDS Report Turnover 💸
+            ↳ Sales Reconciliation Dashboard - 🏷️ Item Level
+            ↳ Sales Reconciliation Dashboard - 🛒 Store Level
+            ↳ SNA Prozesse
+            ↳ Stock Correction Processes - Monitoring
+            ↳ Stock Correction Processes - Monitoring Last Draft/Version Copy
+            ↳ Store Forms & Stock Correction Tracker (Draft
+            ↳ Store Forms & Stock Correction Tracker
+            ↳ TEST1
+            ↳ Test_Hanna
+            ↳ VCP Dashboard
+            ↳ VCP_daily_check_dashboard
+            ↳ VCP_Test_Robin
+            ↳ Warehouse Order ADL Test
+            ↳ WH Orders Missing Items
+            ↳ | RELEX INT | Locations with RTDS data
+        ↳ Used in the following alerts:
+            ↳ Top Up Order Sending Check Alert NL
+            ↳ Top Up Order Sending Check Alert BE
+            ↳ Top Up Order Sending Check Alert UK
+            ↳ Failed Processes - PROD
+            ↳ Failed Processes - PROD (copy)
+            ↳ Overview Failed Processes
+            ↳ Failed Processes 28
+            ↳ Failed Processes 2026-07-30
+            ↳ Functional Dashboard Store Orders CY
+            ↳ Functional Dashboard Store Orders AT (Missing Exports)
+            ↳ Functional Dashboard Alerts - DE
+            ↳ Functional Dashboard Alerts - FI
+            ↳ Functional Dashboard Store Orders CH (Missing Exports)
+            ↳ Functional Dashboard Store Orders CY (Missing Exports)
+            ↳ Functional Dashboard Store Orders CZ (Missing Exports)
+            ↳ Functional Dashboard Store Orders ES
+            ↳ Functional Dashboard Store Orders FR (Missing Exports)
+            ↳ Functional Dashboard Store Orders GR
+            ↳ Functional Dashboard Store Orders HR (Missing Exports)
+            ↳ Functional Dashboard Store Orders HU (Missing Exports)
+            ↳ Functional Dashboard Store Orders IE (Missing Exports)
+            ↳ Functional Dashboard Store Orders LT (Missing Exports)
+            ↳ Functional Dashboard Store Orders PL (Missing Exports)
+            ↳ Functional Dashboard Store Orders PT (Missing Exports)
+            ↳ Functional Dashboard Store Orders RO (Missing Exports)
+            ↳ Functional Dashboard Store Orders RS (Missing Exports)
+            ↳ Functional Dashboard Store Orders SI (Missing Exports)
+            ↳ Functional Dashboard Store Orders SK (Missing Exports)
+            ↳ Functional Dashboard Store Orders HR
+            ↳ Functional Dashboard Store Orders US (Missing Exports)
+            ↳ Functional Dashboard Store Orders CH
+            ↳ !Healthcheck External Systems BE
+            ↳ Promotiondata US
+            ↳ Promotiondata FI
+            ↳ Promotiondata CH
+            ↳ Promotiondata GR
+            ↳ Promotiondata SI
+            ↳ AT
+            ↳ SI
+            ↳ LT
+            ↳ SE
+            ↳ CY
+            ↳ HR
+            ↳ RS
+            ↳ XI
+            ↳ LV
+            ↳ CH
+            ↳ BG
+            ↳ MT
+            ↳ US
+            ↳ SK
+            ↳ GR
+            ↳ CZ
+            ↳ BE
+            ↳ FI
+            ↳ HU
+            ↳ RO
+            ↳ DK
+            ↳ IE
+            ↳ PT
+            ↳ ES
+            ↳ UK
+            ↳ NL
+            ↳ IT
+            ↳ PL
+            ↳ DE
+            ↳ FR
+    Azure Devops
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    Databricks
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    SAP HANA®
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    Oracle Database
+        ↳ Used in the following dashboards:
+            ↳ ADC_IMPORT_CAL
+            ↳ ADC_IMPORT_CAL Copy
+            ↳ ADC_IMPORT_PRE
+            ↳ ADF_daily_control Copy
+            ↳ ADF_PROCEDURES_AT
+            ↳ ADF_PROCEDURES_AT Copy
+            ↳ ADF_PROCEDURES_BE
+            ↳ ADF_PROCEDURES_BG
+            ↳ ADF_PROCEDURES_CZ
+            ↳ ADF_PROCEDURES_DK
+            ↳ ADF_PROCEDURES_HU
+            ↳ ADF_PROCEDURES_FR
+            ↳ ADF_PROCEDURES_IE
+            ↳ ADF_PROCEDURES_IT
+            ↳ ADF_PROCEDURES_NI
+            ↳ ADF_PROCEDURES_MT
+            ↳ ADF_PROCEDURES_NL
+            ↳ ADF_PROCEDURES_PL
+            ↳ ADF_PROCEDURES_RO
+            ↳ ADF_PROCEDURES_SE
+            ↳ ADF_PROCEDURES_SK
+            ↳ ADF_PROCEDURES_TEST
+            ↳ ADF_PROCEDURES_UK
+            ↳ ADL for Relex Test Version_Adelina
+            ↳ ADL Functional Dashboard Details AD-INT
+            ↳ ADL_PRE_PROCEDURES_CZ
+            ↳ ADL_PRE_PROCEDURES_AT
+            ↳ ADL_PRE_PROCEDURES_BG
+            ↳ ADL_PRE_PROCEDURES_FR
+            ↳ ADL_PRE_PROCEDURES_DK
+            ↳ ADL_PRE_PROCEDURES_NL
+            ↳ ADL_PRE_PROCEDURES_PL
+            ↳ ADL_PRE_PROCEDURES_IT
+            ↳ ADL_PRE_PROCEDURES_RO
+            ↳ ADL_PRE_PROCEDURES_SE
+            ↳ ADL_PRE_PROCEDURES_UK
+            ↳ ADL_PROCEDURES_AT
+            ↳ ADL_PROCEDURES_BG
+            ↳ ADL_PROCEDURES_CZ
+            ↳ ADL_PROCEDURES_DK
+            ↳ ADL_PROCEDURES_FR
+            ↳ ADL_PROCEDURES_IT
+            ↳ ADL_PROCEDURES_NL
+            ↳ ADL_PROCEDURES_PL
+            ↳ ADL_PROCEDURES_RO
+            ↳ ADL_PROCEDURES_SE
+            ↳ ADL_PROCEDURES_UK
+            ↳ AMD Checks
+            ↳ CONFIGURATION_DATA_CHECK
+            ↳ Copy - Copy - Functional Dashboard All Countries
+            ↳ Daily Import Status
+            ↳ DetailedForecasts
+            ↳ DetailedChecks_CAL Copy
+            ↳ DetailedChecks_CAL
+            ↳ ExecutionTime
+            ↳ Forecast Report
+            ↳ Functional Dashboard
+            ↳ Functional Dashboard - Furkan Test
+            ↳ Functional Dashboard All Countries Copy
+            ↳ Functional Dashboard All Countries Copy (Joshua)
+            ↳ Functional Dashboard All Countries Copy WaWi API WIP
+            ↳ Functional Dashboard All Countries Copy_Hanna
+            ↳ Functional Dashboard US
+            ↳ INSTALLEDDBUPGRADE
+            ↳ INSTALLEDDBUPGRADE_OLD
+            ↳ MissingStore
+            ↳ Monitoring Guidebook
+            ↳ NeoWeoDashboard
+            ↳ OfficePlaylist_PASBG
+            ↳ OfficePlaylist_PASCZ
+            ↳ OfficePlaylist_PASHU
+            ↳ OfficePlaylist_PASIE
+            ↳ OfficePlaylist_PASNL
+            ↳ OfficePlaylist_PASUK
+            ↳ OfficePlaylist_PASRO
+            ↳ PARIN_DETAILS
+            ↳ PASAT_GET_DATA_DETAILS
+            ↳ PASBE_GET_DATA_DETAILS
+            ↳ PASBG_GET_DATA_DETAILS
+            ↳ PASCZ_GET_DATA_DETAILS
+            ↳ PASDK_GET_DATA_DETAILS
+            ↳ PASFR_GET_DATA_DETAILS
+            ↳ PASHU_GET_DATA_DETAILS
+            ↳ PASIE_GENERATION_DETAILS
+            ↳ PASIE_GET_DATA_PRE_DETAILS
+            ↳ PASIE_GET_DATA_DETAILS
+            ↳ PASIT_GET_DATA_DETAILS
+            ↳ PASNI_STOREPROCESS
+            ↳ PASNI_GET_DATA_DETAILS
+            ↳ PASNL_GET_DATA_DETAILS
+            ↳ PASPL_GET_DATA_DETAILS
+            ↳ PASPL_STOREPROCESS
+            ↳ PASRO_GET_DATA_DETAILS
+            ↳ PASSE_GET_DATA_DETAILS
+            ↳ PASSK_GET_DATA_DETAILS
+            ↳ PASSK_STOREPROCESS
+            ↳ PASUK_GET_DATA_DETAILS
+            ↳ PerformanceGraph_AT_IT_DK_SE
+            ↳ PerformanceGraph_BG_HU_IE_RO
+            ↳ PerformanceGraph_NL_CZ_UK_FR
+            ↳ PerformanceGraph_PL_SK
+            ↳ PolandKeyuser
+            ↳ PolandSell Report
+            ↳ Process Dashboard All Countries (ADINT)
+            ↳ ProdCountriesMap
+            ↳ PROMO_PASAT_QASAT
+            ↳ ProductionDashboard
+            ↳ ProductionDashboard Copy
+            ↳ PromosDashboard
+            ↳ QSDashboard
+            ↳ SDR_CHECK_DETAILS_AT
+            ↳ SDR_CHECK_DETAILS_BE
+            ↳ SDR_CHECK_DETAILS_BG
+            ↳ SDR_CHECK_DETAILS Copy/TEST
+            ↳ SDR_CHECK_DETAILS_HU
+            ↳ SDR_CHECK_DETAILS_FR
+            ↳ SDR_CHECK_DETAILS_NI
+            ↳ SDR_CHECK_DETAILS_IT
+            ↳ SDR_CHECK_DETAILS_IE
+            ↳ SDR_CHECK_DETAILS_NL
+            ↳ SDR_CHECK_DETAILS_RO
+            ↳ SDR_CHECK_DETAILS_PL
+            ↳ SDR_CHECK_DETAILS_SE
+            ↳ SDR_CHECK_DETAILS_SK
+            ↳ SDR_CHECK_DETAILS_UK
+            ↳ T998_AMD_PROTOCOL data traffic
+            ↳ TEST1
+            ↳ TOPUP
+            ↳ TOPUP Copy
+            ↳ TOPUP test
+            ↳ Warehouse Order ADL Test
+        ↳ Not used in any alert!
+    Splunk
+        ↳ Used in the following dashboards:
+            ↳ ADC_IMPORT_CAL Copy
+            ↳ ADC_IMPORT_CAL
+            ↳ ADC_IMPORT_PRE
+            ↳ ADF_PROCEDURES_AT
+            ↳ ADF_PROCEDURES_MT
+            ↳ ADL Functional Dashboard Details AD-INT
+            ↳ ADL_PRE_PROCEDURES_AT
+            ↳ ADL_PRE_PROCEDURES_BG
+            ↳ ADL_PRE_PROCEDURES_DK
+            ↳ ADL_PRE_PROCEDURES_CZ
+            ↳ ADL_PRE_PROCEDURES_FR
+            ↳ ADL_PRE_PROCEDURES_IT
+            ↳ ADL_PRE_PROCEDURES_NL
+            ↳ ADL_PRE_PROCEDURES_PL
+            ↳ ADL_PRE_PROCEDURES_RO
+            ↳ ADL_PRE_PROCEDURES_UK
+            ↳ ADL_PRE_PROCEDURES_SE
+            ↳ ADL_PROCEDURES_AT
+            ↳ ADL_PROCEDURES_BG
+            ↳ ADL_PROCEDURES_CZ
+            ↳ ADL_PROCEDURES_DK
+            ↳ ADL_PROCEDURES_FR
+            ↳ ADL_PROCEDURES_NL
+            ↳ ADL_PROCEDURES_PL
+            ↳ ADL_PROCEDURES_IT
+            ↳ ADL_PROCEDURES_RO
+            ↳ ADL_PROCEDURES_UK
+            ↳ ADL_PROCEDURES_SE
+            ↳ CONFIGURATION_DATA_CHECK
+            ↳ Demand Forecast Splunk
+            ↳ DetailedChecks_CAL
+            ↳ DetailedForecasts
+            ↳ DetailedChecks_CAL Copy
+            ↳ PDI Import Time Series
+            ↳ Promotiondata (ADINT/RELEX)
+            ↳ RELEX Dashboard NEW (TEST)
+        ↳ Not used in any alert!
+
+
+Reports configured in the org
+    Delta Check from Functional Dashboard
+     ↳ scheduled
+    VCP - US
+     ↳ scheduled
+    VCP
+     ↳ scheduled
+    Counting lists report DK 2
+     ↳ scheduled
+    Stock Correction Processes - Monitoring
+     ↳ scheduled
+    PARIN_STATUS
+     ↳ scheduled
+    Autojob Store order results
+     ↳ scheduled
+    Relex - NightRun Report
+     ↳ scheduled
+    VCP_daily_check_dashboard
+     ↳ scheduled
+    AM - F&R - AD Fresh Prod country overview
+     ↳ scheduled
+    AM - F&R - Demand Forecast - suspended processes
+     ↳ scheduled
+    Test NL
+     ↳ paused
+    Test CSV
+     ↳ paused
+    Overview failed processes
+     ↳ paused
+    AM - F&R - AD Fusion Top Up Orders morning checks
+     ↳ paused
+    Counting lists recovery report
+     ↳ paused
+    FWWSnext Stock Monitoring: Usage Statistics ES
+     ↳ scheduled
+    FWWSnext Stock Monitoring: Usage Statistics PL
+     ↳ scheduled
+    FWWSnext Stock Monitoring: Usage Statistics BG
+     ↳ scheduled
+    yet another test report
+     ↳ expired
+    RTDS Live Data report - UWG 60&61 - WH006
+     ↳ expired
+    FWWSnext Stock Management
+     ↳ expired
+    RTDS GB - Stores without stock correction yesterday
+     ↳ paused
+    Counting Lists Report DE
+     ↳ scheduled
+    Counting lists report NI/XI
+     ↳ scheduled
+    Counting lists report SK
+     ↳ scheduled
+    Counting lists report SE
+     ↳ scheduled
+    Counting lists report RS
+     ↳ scheduled
+    Counting lists report RO
+     ↳ scheduled
+    Counting lists report PT
+     ↳ scheduled
+    Counting lists report LV
+     ↳ scheduled
+    Counting lists report IE
+     ↳ scheduled
+    Counting lists report HU
+     ↳ scheduled
+    Counting lists report HR
+     ↳ scheduled
+    Counting lists report GR
+     ↳ scheduled
+    Counting lists report FI
+     ↳ scheduled
+    Counting lists report ES
+     ↳ scheduled
+    Counting lists report EE
+     ↳ scheduled
+    Counting lists report DK
+     ↳ scheduled
+    Counting lists report CZ
+     ↳ scheduled
+    Counting lists report CY
+     ↳ scheduled
+    Counting lists report CS
+     ↳ scheduled
+    Counting lists report CH
+     ↳ scheduled
+    Counting lists report BG
+     ↳ scheduled
+    Counting lists report AT
+     ↳ paused
+    kronos_today_calc_engine_failed
+     ↳ draft
+    Kronos
+     ↳ expired
+    Counting lists report FR
+     ↳ scheduled
+    Counting Lists Report US
+     ↳ scheduled
+    Counting Lists Report MT
+     ↳ scheduled
+    Counting List Report IT
+     ↳ scheduled
+    Counting lists report SI
+     ↳ scheduled
+    Counting lists report BE
+     ↳ scheduled
+    Counting list test report
+     ↳ paused
+    Counting lists report NL
+     ↳ scheduled
+    Counting lists report GB
+     ↳ paused
+    Counting lists report LT
+     ↳ scheduled
+    Counting lists report PL
+     ↳ paused
+    RTDS SDR Email Alert NL
+     ↳ scheduled
+    [SI] ESB Email Alert
+     ↳ scheduled
+    RTDS SDR Email Alert SK
+     ↳ scheduled
+    RTDS SDR Email Alert GB
+     ↳ scheduled
+    RTDS SDR Email Alert NI
+     ↳ scheduled
+    RTDS SDR Email Alert IE
+     ↳ scheduled
+    Turnover CY
+     ↳ paused
+    Turnover GR 310
+     ↳ paused
+    Turnover GR 340
+     ↳ paused
+    Turnover GR 350
+     ↳ paused
+    Turnover GR 380
+     ↳ paused
+    Turnover GR
+     ↳ paused
+    RTDS SDR Email Alert SE
+     ↳ scheduled
+    FR Sales Report 4234
+     ↳ expired
+    Alert AD - Sklepy bez zamknięć dni
+     ↳ paused
+    FR Sales Report 4193
+     ↳ expired
+    FR Sales Report 3629
+     ↳ expired
+    FR Sales Report 4268
+     ↳ expired
+    DK Turnover 
+     ↳ paused
+    Turnover CY_old
+     ↳ paused
+     ESB Dashboard Country Level ADINT - Report
+     ↳ scheduled
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 423 active users"
+171,"KFL FLW Comm-App
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 35 active users"
+140,"WAWI Platform
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Oracle Database
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+Reports configured in the org
+    test
+     ↳ scheduled
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 26 active users"
+62,"netsec-remloc
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Used in the following dashboards:
+            ↳ Pulse
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 52 active users"
+25,"IoT@Schwarz
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 41 active users"
+26,"CMDB
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+63,"Aktionsplanungstool
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Oracle Database
+        ↳ Used in the following dashboards:
+            ↳ ADP Prod Artikelverarbeitung
+            ↳ ADP QS Artikelverarbeitung APT
+            ↳ ADP Monitoring Prod
+            ↳ ADP QS MIS Import
+            ↳ MASTERADM-Verarbeitung
+            ↳ NF Ausmusterung
+            ↳ Recalc Überwachung
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 23 active users"
+28,"ESLMP Kaufland
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 27 active users"
+29,"Storeportal
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 23 active users"
+30,"lidlemp
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 17 active users"
+31,"s-int-it-SecurityPlatforms
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+32,"ZP-Vorhaben
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Azure Devops
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 22 active users"
+33,"PZE4
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Oracle Database
+        ↳ Used in the following dashboards:
+            ↳ Absences
+            ↳ All countries overview
+            ↳ All countries overview - Rolled back NL changes (second stage check)
+            ↳ All countries overview Copy2
+            ↳ All countries overview Copy 20231205 - before delete old view
+            ↳ All countries overview QS
+            ↳ Budge Issues - All Counties Overview
+            ↳ Budge Issues - All Counties Overview Copy Link testing
+            ↳ Budge Issues - All Counties Overview Copy2
+            ↳ Employees with Gaps in Store Relation - All Counties Overview (NOT USE)
+            ↳ Employees with No Employee Function Relation  - All Counties Overview ( NOT USE)
+            ↳ FL - Absence Monitoring
+            ↳ GENERAL FLEXIBLE QUERIES
+            ↳ GR - Ergani
+            ↳ GR - Ergani Copy - QS
+            ↳ MIS Export & Dayend Job Failures
+            ↳ New dashboard
+            ↳ PZE4 AT overview
+            ↳ PZE4 AT overview - old Copy
+            ↳ PZE4 AT overview - old Copy Copy 2
+            ↳ PZE All countries overview - QS - OLD
+            ↳ PZE4 BG overview
+            ↳ PZE4 BG overview Old Copy
+            ↳ PZE4 CY overview
+            ↳ PZE4 CY overview Old Copy
+            ↳ PZE4 FI overview
+            ↳ PZE4 FI overview Old Copy
+            ↳ PZE4 GR overview Old Copy
+            ↳ PZE4 HR overview
+            ↳ PZE4 GR overview
+            ↳ PZE4 IE overview
+            ↳ PZE4 HR overview Old Copy
+            ↳ PZE4 IE overview Old Copy
+            ↳ PZE4 LT overview
+            ↳ PZE4 IT overview
+            ↳ PZE4 IT overview Old Copy
+            ↳ PZE4 LT overview Old Copy
+            ↳ PZE4 MT overview
+            ↳ PZE4 NI overview
+            ↳ PZE4 MT overview Old Copy
+            ↳ PZE4 NI overview Old Copy
+            ↳ PZE4 NL overview
+            ↳ PZE4 NL overview Old Copy
+            ↳ PZE4 RO overview Old Copy
+            ↳ PZE4 SE overview
+            ↳ PZE4 RO overview
+            ↳ PZE4 SE overview Old Copy
+            ↳ PZE4 SV overview
+            ↳ PZE4 SV overview Old Copy
+            ↳ Send To ESB  - IT
+            ↳ Send To ESB - All Counties Overview
+            ↳ Timerecord Issues - All Counties Overview
+            ↳ Timerecord Issues Duplicates - Worktime Special Handling - All Counties Overview
+            ↳ Very Far In Future Date - All Counties Overview
+        ↳ Used in the following alerts:
+            ↳ AT - Absences
+            ↳ BG - Absences
+            ↳ CY - Absences
+            ↳ GR - Absences
+            ↳ HR - Absences
+            ↳ IE - Absences
+            ↳ IT - Absences
+            ↳ LT - Absences
+            ↳ MT - Absences
+            ↳ NI - Absences
+            ↳ NL - Absences
+            ↳ RO - Absences
+            ↳ SE - Absences
+            ↳ SV - Absences
+            ↳ CY
+            ↳ GR
+            ↳ HR
+            ↳ IE
+            ↳ IT
+            ↳ LT
+            ↳ MT
+            ↳ NI
+            ↳ NL
+            ↳ RO
+            ↳ SE
+            ↳ SV
+            ↳ AT
+            ↳ BG
+            ↳ AT - Punches Absences not sent
+            ↳ BG - Punches Absences not sent
+            ↳ CY - Punches Absences not sent
+            ↳ GR - Punches Absences not sent
+            ↳ HR - Punches Absences not sent
+            ↳ IE - Punches Absences not sent
+            ↳ IT - Punches Absences not sent
+            ↳ LT - Punches Absences not sent
+            ↳ MT - Punches Absences not sent
+            ↳ NI - Punches Absences not sent
+            ↳ NL - Punches Absences not sent
+            ↳ RO - Punches Absences not sent
+            ↳ SE - Punches Absences not sent
+            ↳ SV - Punches Absences not sent
+            ↳ GR-QS - ESB Import to PZE
+            ↳ AT - Punches and Dayend not sent
+            ↳ BG - Punches and Dayend not sent
+            ↳ CY - Punches and Dayend not sent
+            ↳ GR - Punches and Dayend not sent
+            ↳ HR - Punches and Dayend not sent
+            ↳ IE - Punches and Dayend not sent
+            ↳ IT - Punches and Dayend not sent
+            ↳ LT - Punches and Dayend not sent
+            ↳ MT - Punches and Dayend not sent
+            ↳ NI - Punches and Dayend not sent
+            ↳ NL - Punches and Dayend not sent
+            ↳ RO - Punches and Dayend not sent
+            ↳ SE - Punches and Dayend not sent
+            ↳ SV - Punches and Dayend not sent
+            ↳ AT - Work schedules
+            ↳ BG - Work schedules
+            ↳ CY - Work schedules
+            ↳ GR - Work schedules
+            ↳ HR - Work schedules
+            ↳ IE - Work schedules
+            ↳ IT - Work schedules
+            ↳ LT - Work schedules
+            ↳ MT - Work schedules
+            ↳ NI - Work schedules
+            ↳ NL - Work schedules
+            ↳ RO - Work schedules
+            ↳ SE - Work schedules
+            ↳ SV - Work schedules
+            ↳ GR - ESB Import to PZE
+            ↳ AT - Health Check
+            ↳ CY - Health Check
+            ↳ GR - Health Check
+            ↳ HR - Health Check
+            ↳ IE - Health Check
+            ↳ IT - Health Check
+            ↳ LT - Health Check
+            ↳ MT - Health Check
+            ↳ NI - Health Check
+            ↳ NL - Health Check
+            ↳ RO - Health Check
+            ↳ SE - Health Check
+            ↳ AT - MIS-Export fails
+            ↳ BG - MIS-Export fails
+            ↳ CY - MIS-Export fails
+            ↳ FI - MIS-Export fails
+            ↳ GR - MIS-Export fails
+            ↳ HR - MIS-Export fails
+            ↳ IE - MIS-Export fails
+            ↳ IT - MIS-Export fails
+            ↳ LT - MIS-Export fails
+            ↳ MT - MIS-Export fails
+            ↳ NI - MIS-Export fails
+            ↳ NL - MIS-Export fails
+            ↳ RO - MIS-Export fails
+            ↳ SE - MIS-Export fails
+            ↳ SV - MIS-Export fails
+            ↳ AT - MIS-Export not started
+            ↳ BG - MIS-Export not started
+            ↳ CY - MIS-Export not started
+            ↳ FI - MIS-Export not started
+            ↳ GR - MIS-Export not started
+            ↳ HR - MIS-Export not started
+            ↳ IE - MIS-Export not started
+            ↳ IT - MIS-Export not started
+            ↳ LT - MIS-Export not started
+            ↳ MT - MIS-Export not started
+            ↳ NI - MIS-Export not started
+            ↳ NL - MIS-Export not started
+            ↳ RO - MIS-Export not started
+            ↳ SE - MIS-Export not started
+            ↳ SV - MIS-Export not started
+            ↳ AT - Missing dayend
+            ↳ BG - Missing dayend
+            ↳ CY - Missing dayend
+            ↳ FI - Missing dayend
+            ↳ GR - Missing dayend
+            ↳ HR - Missing dayend
+            ↳ IE - Missing dayend
+            ↳ IT - Missing dayend
+            ↳ LT - Missing dayend
+            ↳ MT - Missing dayend
+            ↳ NI - Missing dayend
+            ↳ NL - Missing dayend
+            ↳ RO - Missing dayend
+            ↳ SE - Missing dayend
+            ↳ SV - Missing dayend
+    Splunk
+        ↳ Used in the following dashboards:
+            ↳ Dayforce_L_Errors
+            ↳ Test Splunk
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 39 active users"
+64,"Audimex
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+35,"4PLUS1GoldenSignal-DEV
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 27 active users"
+36,"SCOM-General
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Azure Devops
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 98 active users"
+37,"SCOM-FWWS-L
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+38,"SCOM-FWWS-K
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+39,"SCOM-LIS-Platform
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+40,"SCOM-Shopping-Platform
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+41,"SCOM-Checkout-L
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+42,"SCOM-Checkout-K
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+43,"SCOM-Business-KPIs
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+44,"Schwarz
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+45,"Solution Group WFML
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Oracle Database
+        ↳ Used in the following dashboards:
+            ↳ 7UHR_UAP_FC/NFC_CHECK
+            ↳ Backup copy from WFM-L-AQ0001WF
+            ↳ EU_part1_par2_check
+            ↳ EU_part1_part2_check(%)
+            ↳ Oracle Test
+            ↳ Oracle_OEM
+            ↳ UAP Prognose Daten BO
+            ↳ UAP Prognose Daten NFC/FC
+            ↳ US_part1_part2_check
+            ↳ Wetterbeladung
+            ↳ WFM-L-AP0001WF
+        ↳ Used in the following alerts:
+            ↳ Nifi stuck BSD job(s)
+    Splunk
+        ↳ Used in the following dashboards:
+            ↳ Splunk Dashboard
+            ↳ WFM_PROD-EU_FA
+            ↳ WFM_PROD_US_MONITORING FA
+            ↳ WFM_PRODEU_MONITORING_ASR
+            ↳ WFM_PRODEU_MONITORING_CMP
+            ↳ WFM_PRODUS_MONITORING_CMP
+            ↳ WFM_PRODUS_MONITORING_ASR
+            ↳ WFM_QS_MONITORING ASR
+            ↳ WFM_QS_MONITORING CMP
+            ↳ WFM_TEST3_MONITORING
+            ↳ WFM_TEST3_MONITORING reduced
+            ↳ WFM_TEST3_MONITORING_ASR
+            ↳ WFM_TEST3_MONITORING_FA
+            ↳ WFM_TEST3_MONITORING_CMP
+            ↳ WFM_TEST3_MONITORING_SHD
+            ↳ WFM_TEST_1_MONITORING reduced
+            ↳ WFM_TEST_2_MONITORING
+            ↳ WFM_TEST_1_MONITORING
+            ↳ WFM_TEST_2_MONITORING reduced
+        ↳ Not used in any alert!
+
+
+Reports configured in the org
+    EU_part1_part2_check(%)
+     ↳ scheduled
+    UAP Prognose Daten NFC/FC
+     ↳ scheduled
+    UAP Prognose Daten BO
+     ↳ scheduled
+    EU_part1_par2_check
+     ↳ scheduled
+    US_part1_part2_check
+     ↳ scheduled
+    WFM Morning checks report
+     ↳ scheduled
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 59 active users"
+65,"AI Data
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+47,"FWWS KL
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 31 active users"
+34,"WaWi Cloud Data Store
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Databricks
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    Splunk
+        ↳ Used in the following dashboards:
+            ↳ WaWi ESL Global Overview
+        ↳ Not used in any alert!
+    Snowflake
+        ↳ Used in the following dashboards:
+            ↳ INT WCDP - Arch 1.0, Databases with no checksums
+            ↳ INT WCDP - Arch 1.0, Table Status
+            ↳ INT WCDP - Arch 1.0, Unsync Tables
+            ↳ INT WCDP - Arch 2.0, Country Replication Status
+            ↳ Integra App Errors IT
+            ↳ Integra App Errors IT Arch. 2.0
+            ↳ STD Dayend Snowflake
+        ↳ Used in the following alerts:
+            ↳ GoldenGate Heartbeat missing
+            ↳ Heartbeat
+            ↳ New tables out of sync
+            ↳ Databases did not calculate checksums
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 120 active users"
+66,"Kaufland-Scan
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Databricks
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 60 active users"
+49,"Retail-Technologies
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Used in the following dashboards:
+            ↳ Main Country Dashboard
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 23 active users"
+160,"SIT Edge Cloud
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 29 active users"
+51,"Retail Operations K
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 23 active users"
+52,"LNX-Inf
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 55 active users"
+75,"Industrial Edge KFL
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 63 active users"
+54,"SIAM 2022
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 67 active users"
+55,"CCTV
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+56,"Parkingspace Management
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 18 active users"
+57,"Lidl Article Content
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+130,"STACKIT-Datacenter
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+Reports configured in the org
+    DC01 Total
+     ↳ scheduled
+    Site2
+     ↳ scheduled
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 37 active users"
+59,"BI-Data-Technology-Implementation
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Snowflake
+        ↳ Used in the following dashboards:
+            ↳ Snowflake Dashboard
+            ↳ Snowflake Test
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 22 active users"
+69,"KPOSSD
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+70,"4PLUS1GoldenSignalCustom
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Used in the following dashboards:
+            ↳ GeneralView
+            ↳ GeneralView Copy
+            ↳ Splunk testboard
+        ↳ Not used in any alert!
+
+
+Reports configured in the org
+    test
+     ↳ expired
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 175 active users"
+71,"Systemstatus-Tagesabschluss
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+72,"UAPC-ADINT
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Databricks
+        ↳ Used in the following dashboards:
+            ↳ Cost Monitoring
+            ↳ Data Quality Gate
+            ↳ DF Model Observability Dashboard
+            ↳ NEOFC-125-Observability Dashboard Copy
+            ↳ Prediction Completeness Check
+        ↳ Used in the following alerts:
+            ↳ MissingPredictions
+            ↳ OpenStoresWithoutPredictions
+    Snowflake
+        ↳ Used in the following dashboards:
+            ↳ Test Dashboard
+        ↳ Not used in any alert!
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 44 active users"
+76,"Industrial Edge PZ
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 41 active users"
+77,"Industrial Edge SPW
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 41 active users"
+78,"UAPC-BZK
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+Reports configured in the org
+    SQV21 - Test Report
+     ↳ paused
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 33 active users"
+79,"NetSec-DC
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 31 active users"
+80,"uapc-kolli
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Used in the following dashboards:
+            ↳ Kolli Template
+            ↳ Dashboard Template
+            ↳ Kolli Dashboard
+        ↳ Used in the following alerts:
+            ↳ Dataservice Reload Issue
+            ↳ Kolli: Pipeline or preparation steps failed
+            ↳ Image Pipeline
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 22 active users"
+81,"EPS
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 29 active users"
+82,"Control Center
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 26 active users"
+83,"OSO
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    MongoDB
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 26 active users"
+84,"EdgeCloud
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+85,"SPACE
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 107 active users"
+86,"CRE
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 31 active users"
+87,"sit-eng-perso-uo-uk-edm
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 26 active users"
+88,"Network DC
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 53 active users"
+89,"RPA Monitoring POC
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 23 active users"
+90,"SCRM Digital Hub
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Azure Devops
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 22 active users"
+91,"Hydra Monitoring
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Used in the following dashboards:
+            ↳ New dashboard 2
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 22 active users"
+92,"Network LAN-WLAN
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 27 active users"
+93,"CDN Solutions
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    MongoDB
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 39 active users"
+94,"Groot
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    MongoDB
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 26 active users"
+103,"TIPS
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+96,"CBO4Retail
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 25 active users"
+97,"Rundeck
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 25 active users"
+98,"UAPC
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+99,"APT-BP
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+100,"Store Activity Repository
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Azure Devops
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    MongoDB
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+    Splunk
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 95 active users"
+101,"SIT-CSA
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+102,"FRUN-dashboards
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+131,"AI PZO
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 39 active users"
+105,"netsec-bc
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 31 active users"
+106,"BC Kunde-Card Payment
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 42 active users"
+107,"GuestWifi
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Used in the following dashboards:
+            ↳ GuestWifi - Kaufland
+            ↳ GuestWifi - Lidl Backup
+            ↳ GuestWifi - Lidl Country View
+            ↳ GuestWifi - Kaufland Country View (NSR4833318)
+            ↳ GuestWifi - Lidl Country View (NSR4833318)
+            ↳ GuestWifi - Lidl Store View (NSR4833318)
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 42 active users"
+108,"CBO Purchase Lidl
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Oracle Database
+        ↳ Used in the following dashboards:
+            ↳ EKS & DMS
+            ↳ oracle db query tests_thielela
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 17 active users"
+109,"CP4BA
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 26 active users"
+110,"VDBS
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 30 active users"
+111,"BCP PEP CDF
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+112,"Kaufland AutoDispo
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    SAP HANA®
+        ↳ Used in the following dashboards:
+            ↳ Abverkäufe
+            ↳ Auswertungen_Testläufe
+            ↳ Business KPIs
+            ↳ Bastis Dashboard
+            ↳ CBO
+            ↳ daily wMape
+            ↳ Dispo Cockpit
+            ↳ Dispo Runtimes
+            ↳ Dispo Runtimes Copy
+            ↳ Dispo Runtimes Copy SAP
+            ↳ Forecast evalution
+            ↳ Forecast
+            ↳ Forecast Vergleich
+            ↳ Message Numbers
+            ↳ New dashboard
+            ↳ New dashboard_kevin
+            ↳ O&G
+            ↳ O&G Analyse Forecasting
+            ↳ Offer Details
+            ↳ O&G Analyse Modelling
+            ↳ Offer KPIs
+            ↳ Prognose_Vgl_Feiertage
+            ↳ Status Dispo Filiale operativ
+            ↳ Test Analytics
+            ↳ Promo ZUDF_FCST
+            ↳ UDF TECH
+            ↳ User DIF's
+            ↳ wMape
+        ↳ Used in the following alerts:
+            ↳ Endtime ZUDF0050_TS_DWH
+            ↳ Status UDF SLA
+
+
+Reports configured in the org
+    UDF TECH
+     ↳ scheduled
+    System Status P11
+     ↳ scheduled
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 28 active users"
+113,"HAC Controlling
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 37 active users"
+114,"Lis Plattform
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Oracle Database
+        ↳ Used in the following dashboards:
+            ↳ Oracle Scheduler
+            ↳ Store Overviews
+        ↳ Used in the following alerts:
+            ↳ PROD_LISA0_FWWS_Orders_failed
+            ↳ PROD_LISA1_FWWS_Orders_failed
+            ↳ PROD_LISA2_FWWS_Orders_failed
+            ↳ PROD_LISA3_FWWS_Orders_failed
+            ↳ PROD_LISA4_FWWS_Orders_failed
+            ↳ PROD_USA_FWWS_Orders_failed
+
+
+Reports configured in the org
+    PROD US - Rogue Store Report
+     ↳ scheduled
+    LISA4 - Rogue Store Report
+     ↳ scheduled
+    LISA3 - Rogue Store Report
+     ↳ scheduled
+    LISA2 - Rogue Store Report
+     ↳ scheduled
+    LISA1 - Rogue Store Report
+     ↳ scheduled
+    LISA0 - Rogue store overview
+     ↳ scheduled
+    FS Version Overview
+     ↳ scheduled
+    Test store overview
+     ↳ paused
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 32 active users"
+115,"Industrial Edge PZO Evergem
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 60 active users"
+116,"Network Operations
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+117,"IT-Infrastruktur Lager
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+118,"eps-core
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 25 active users"
+119,"SCon
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    MongoDB
+        ↳ Used in the following dashboards:
+            ↳ [KPI] Botspecific overview
+            ↳ --- TEST ---
+            ↳ [KPI] Overview of all bots per country
+            ↳ Agent Assist - Agent Call ID Matching
+            ↳ App Detailed View
+            ↳ Comm Hub & Push Service
+            ↳ Experiment_conversationCount
+            ↳ HR-INT KPIs Lidl
+            ↳ Kaufland Ecom
+            ↳ Logs
+            ↳ LIVA_DASHBOARD
+            ↳ Test_Samira
+        ↳ Used in the following alerts:
+            ↳ TestAlert
+
+
+Reports configured in the org
+    Stock Request Report - BE
+     ↳ scheduled
+    Stock Request Report - PL
+     ↳ scheduled
+    Stock Request Report - NIE
+     ↳ scheduled
+    Stock Request Report - IT
+     ↳ scheduled
+    Stock Request Report - GB
+     ↳ scheduled
+    Stock Request Report - HU
+     ↳ scheduled
+    Stock Request Report - FR
+     ↳ scheduled
+    Stock Request Report - IE
+     ↳ scheduled
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 34 active users"
+120,"Monitoring Solutions
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Splunk
+        ↳ Used in the following dashboards:
+            ↳ Solution: Splunk
+            ↳ Splunk KPI
+        ↳ Not used in any alert!
+
+
+Reports configured in the org
+    test report
+     ↳ expired
+    Report Test Ahmet NSR5408255
+     ↳ expired
+    Reporting Hosts pro Sparte
+     ↳ scheduled
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 26 active users"
+121,"BG Hackathon - NSS
+________________
+
+Impossible to gather info for this organisation
+122,"Advanced Core Services
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+125,"KTMS
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+Reports configured in the org
+    Wanko KTMS Prod
+     ↳ expired
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 23 active users"
+123,"Monitoring Anomaly Detection
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+124,"AI-Storeserver-K3S
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Databricks
+        ↳ Used in the following dashboards:
+            ↳ [ARCHIVED] Leadership Dashboard
+            ↳ [ARCHIVED] Leadership Dashboard (External Companies)
+            ↳ [ARCHIVED] Model comparison
+        ↳ Not used in any alert!
+
+
+Reports configured in the org
+    SMART SCO O&G Rollout Status
+     ↳ paused
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 44 active users"
+126,"sit-middleware4you
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    MongoDB
+        ↳ Used in the following dashboards:
+            ↳ Technology and Automation Services
+            ↳ Optional Dashboard
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 26 active users"
+127,"CMSD
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    MongoDB
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 21 active users"
+128,"IntegrationServices
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    MongoDB
+        ↳ Used in the following dashboards:
+            ↳ Solace Edge Broker
+        ↳ Not used in any alert!
+
+
+Reports configured in the org
+    WAWI Broker Status Report
+     ↳ scheduled
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 47 active users"
+129,"SLA-Reporting SAP aufbauen
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    SAP HANA®
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+Reports configured in the org
+    SLA dashboard test report
+     ↳ expired
+    TestSLO
+     ↳ expired
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 23 active users"
+104,"ONE Alerting
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 25 active users"
+132,"Kaufland IT-DE
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Snowflake
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 22 active users"
+133,"EDI
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Oracle Database
+        ↳ Used in the following dashboards:
+            ↳ test_oracle_plugin
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 27 active users"
+135,"DCIM
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+20,"Bildungscampus
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    MongoDB
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+Reports configured in the org
+    Test
+     ↳ expired
+    Testreport
+     ↳ expired
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 30 active users"
+9,"SIT BC Kunde - Customer Relations - Integrations
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Azure Devops
+        ↳ Used in the following dashboards:
+            ↳ Deployment Branches Status (CE - EU)
+            ↳ Pipeline Comsumption
+        ↳ Not used in any alert!
+    Salesforce
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 27 active users"
+167,"UAPC-SSC
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Databricks
+        ↳ Used in the following dashboards:
+            ↳ Test dashboard (PRD)
+            ↳ DEV test dashboard
+            ↳ Test dashboard
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 25 active users"
+141,"Industrial Edge PZO Zwolle
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 48 active users"
+142,"Industrial Edge PZO Fonte
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 36 active users"
+143,"Industrial Edge PZO Voelkermarkt
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 32 active users"
+145,"Test-ORG
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+144,"Grafana Basic Training 2025 - NSS
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 35 active users"
+146,"Enterprise Data Products
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Snowflake
+        ↳ Used in the following dashboards:
+            ↳ New dashboard
+            ↳ Overview
+            ↳ Test2
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 22 active users"
+147,"PFKEXT
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 31 active users"
+148,"DTTA
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    Snowflake
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 33 active users"
+149,"BC VW Non-Retail
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+150,"Digital Manufacturing Alarming
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 30 active users"
+151,"NetPerfMon
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 29 active users"
+152,"Workload Automation
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+153,"SPW Industrial Network
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+154,"NEO Dashboards
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+155,"MCT Fusion API
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+156,"OTG
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+157,"CETP-BOB-UEBACH
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 25 active users"
+158,"Industrial Edge PZO Oelbronn
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 43 active users"
+159,"Industrial Edge PZO Eitting
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 45 active users"
+50,"SAN-Storage
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 31 active users"
+161,"SIT Edge Cloud Application Management
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 26 active users"
+162,"cdc-rad
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 26 active users"
+163,"MAM
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+164,"NSA
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 31 active users"
+165,"KPI-Automation-Foundation
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+166,"SP-CloudOps
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+168,"Industrial Edge PZO Sollenau
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 42 active users"
+169,"SASMS
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 25 active users"
+170,"SAP-Global-Dev
+________________
+
+Enterprise datasource plugins configured in the org:
+
+    SAP HANA®
+        ↳ Not used in any dashboard!
+        ↳ Not used in any alert!
+
+
+No reports configured in the org!
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 23 active users"
+172,"Scan and Go Lidl
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+Reports configured in the org
+    Test Email Report Rescan Dashboard
+     ↳ expired
+    Test Report
+     ↳ expired
+
+
+This org configured enterpise features but they're probably unused and the org could be migrated without losses
+
+This organization has currently 75 active users"
+173,"HAC2
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+174,"database.schwarz
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 27 active users"
+175,"SISM
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+176,"BOS-VM
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 25 active users"
+177,"GenAI
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+178,"Digital Operations
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 28 active users"
+179,"CET Checkout
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+180,"Digital Signage Grassfish
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 31 active users"
+181,"SEO-GEO
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+Reports configured in the org
+    AI Crawlers - Monthly SEO Calls
+     ↳ expired
+    AI Crawlers - OS overview
+     ↳ scheduled
+    test dashboard reporting
+     ↳ expired
+
+
+This org currently seems to be using enterpise features actively
+
+This organization has currently 25 active users"
+182,"Smart CX
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 32 active users"
+183,"Smart CX-SSCO1
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+184,"Smart CX-SSCO4
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 24 active users"
+185,"DalimL
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+186,"Media Technology Network
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+187,"Technology and Automation Services
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 26 active users"
+188,"Transparency Tool Suite
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
+190,"Schwarz Digits Country Services
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 23 active users"
+191,"Computer Vision Retail
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 25 active users"
+189,"Industrial Edge & Platforms
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 31 active users"
+192,"Technical Foundation
+________________
+
+No enterprise datasource plugin configured in the org!
+
+
+No reports configured in the org!
+
+
+This org currently doesn't use enterprise features and could be migrated
+
+This organization has currently 22 active users"
